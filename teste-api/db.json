@@ -1,0 +1,7 @@
+{
+  "aluno": [
+    { "id": 1, "matricula": "123", "nome": "Ana" },
+    { "id": 2, "matricula": "125", "nome": "Bruno" },
+    { "id": 3, "matricula": "127", "nome": "Carlos" }
+  ]
+}
